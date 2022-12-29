@@ -14,6 +14,10 @@ I try to use media quaries as rarely as I can.
 I also try to use responsive width and height and try to 
 systematize css properties.
 
+## Website
+
+I use github pages for hosting, so you can find my website [here](https://igorzvezdilin.github.io/health-club-grid-flexbox/).
+
 
 ## Acknowledgements
 
